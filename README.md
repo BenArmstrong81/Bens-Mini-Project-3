@@ -35,18 +35,12 @@ I created a Rock, Paper, Scissors game which included HTML and JavaScript. I als
 N/A
 
 # Usage
-To use and view this mini project please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Bens-Mini-Project-2/" 
+To use and view this mini project please use this the following link to access the deployed website: "https://benarmstrong81.github.io/Bens-Mini-Project-3/" 
 
-The deployed webpage includes the abilty to click and select each code snippet.
+The deployed webpage allows you to play the game, enjoy 😊.
 The following image shows the web application's appearance:
 
-![My Web Development Portfolio webpage includes a navigation bar, a professional head shot image, multiple links (placeholders at this stage) to projects completed within the UniSA Full Stack Web Development course, and working links to contact me - even download an updated resume.](./images/BensMiniProject2-FullScreen-resized.png)
-
-* At size 768px and above, the app should resemble the following image: <br/>
-    ![On a tablet, the application displays two CSS code snippets per row.](./images/BensMiniProject2-Screen%40992px-resized.png)
-
-* On mobile devices, anything under 768px, the app should resemble the following image: <br/>
-    ![On a mobile device, the application displays one CSS code snippet per row.](./images/BensMiniProject2-Screen%40768px.png)
+![My Web Development Portfolio webpage includes a navigation bar, a professional head shot image, multiple links (placeholders at this stage) to projects completed within the UniSA Full Stack Web Development course, and working links to contact me - even download an updated resume.](./images/Bens-Mini-Project-3-RockPaperScissorsGame.PNG)
 
 
 # Credits
